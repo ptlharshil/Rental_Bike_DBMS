@@ -2,6 +2,7 @@
 The aim of the database is to maintain data to determine the demand and supply of the rental bikes based on the weather data, the time period data, customer reviews and other recorded data. It will be used to understand the customer behaviour and to optimize the operations.
 
 Business Problems Addressed:
+
 • Understand the customer behavior to better serve them with their choice of bikes and thus the purpose of the ride.
 
 • Make appropriate decisions on which bikes to buy and discontinue based on the demand.
